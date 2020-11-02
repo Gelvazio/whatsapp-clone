@@ -54,7 +54,7 @@ $ yarn start
 $ npm start
 ```
 <h3>
-    Obs Inportante:. Não esquece, de criar um banco de dados do firebase, e compiar suas configuração para dentro do arquivo, 
+    Obs Importante:. Não esquece, de criar um banco de dados do firebase, e compiar suas configuração para dentro do arquivo, 
     estara dentro da pasta "CONEXAO" e depois no arquivo "firebaseConfig.js"
 </h3>
 
