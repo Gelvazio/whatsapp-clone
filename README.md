@@ -17,7 +17,7 @@
 </h4>
 
 <a href="https://imgur.com/BQkyvh4"><img src="https://i.imgur.com/BQkyvh4.png" title="source: imgur.com" /></a>
-<a href="https://imgur.com/onCrwRO"><img src="https://i.imgur.com/onCrwRO.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/R8mXcjQ"><img src="https://i.imgur.com/R8mXcjQ.png" title="source: imgur.com" /></a>
 
 ## :rocket: Tecnologias
 
