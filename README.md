@@ -54,8 +54,8 @@ $ yarn start
 $ npm start
 ```
 <h3>
-    Obs Importante:. Não esquece, de criar um banco de dados do firebase, e compiar suas configuração para dentro do arquivo, 
-    estara dentro da pasta "CONEXAO" e depois no arquivo "firebaseConfig.js"
+    Obs Importante:. Não esquecer, de criar no firebase um banco de dados para seu projeto, e copiar suas configurações para dentro do arquivo, 
+    estara na pasta "CONEXAO" e depois criar um arquivo "firebaseConfig.js" e colar conforme o arquivo no projeto.
 </h3>
 
 ## :memo: License
