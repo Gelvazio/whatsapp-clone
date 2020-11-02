@@ -2,11 +2,6 @@
     WhatsApp Clone
 </h1>
 
-<h2>
-    Não esquece, de criar um banco de dados do firebase, e compiar suas configuração para dentro do arquivo, 
-    estara dentro da pasta "CONEXAO" e depois no arquivo "firebaseConfig.js"
-</h2>
-
 <h4 align="center">
   WhatsApp Clone tecnologias JavaScript, HTML, CSS, Firebase
 </h4>
@@ -58,6 +53,10 @@ $ yarn start
 # Run the app
 $ npm start
 ```
+<h3>
+    Não esquece, de criar um banco de dados do firebase, e compiar suas configuração para dentro do arquivo, 
+    estara dentro da pasta "CONEXAO" e depois no arquivo "firebaseConfig.js"
+</h3>
 
 ## :memo: License
 Este projeto está sob a licença MIT. Veja o [LICENSE](https://github.com/SilvaneiMartins/whatsapp-clone/blob/master/LICENSE) for more information.
