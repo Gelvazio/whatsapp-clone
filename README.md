@@ -1,9 +1,9 @@
 <h1 align="center">
-    Facebook Clone
+    WhatsApp Clone
 </h1>
 
 <h4 align="center">
-  Facebook Clone tecnologias JavaScript, HTML, CSS, Firebase
+  WhatsApp Clone tecnologias JavaScript, HTML, CSS, Firebase
 </h4>
 
 <p align="center">
@@ -13,15 +13,10 @@
 </p>
 
 <h4 align="left">
-  Demotração do Projeto, acessar link abaixo.
-</h4 >
-<a href="https://dazzling-hamilton-497b5d.netlify.app/" target="_blank" >https://dazzling-hamilton-497b5d.netlify.app/</a>
-
-<h4 align="left">
   Demotração do Projeto Clone Desenvolvido.
 </h4>
 
-<a href="https://imgur.com/lIFab25"><img src="https://i.imgur.com/lIFab25.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/BQkyvh4"><img src="https://i.imgur.com/BQkyvh4.png" title="source: imgur.com" /></a>
 <a href="https://imgur.com/onCrwRO"><img src="https://i.imgur.com/onCrwRO.png" title="source: imgur.com" /></a>
 
 ## :rocket: Tecnologias
@@ -41,10 +36,10 @@ Para clonar e executar esta aplicação, você precisa do [Git](https://git-scm.
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/SilvaneiMartins/facebook
+$ git clone https://github.com/SilvaneiMartins/whatsapp-clone
 
 # Go into the repository
-$ cd facebook
+$ cd whatsapp-clone
 
 # Install dependencies
 $ yarn
@@ -60,13 +55,13 @@ $ npm start
 ```
 
 ## :memo: License
-Este projeto está sob a licença MIT. Veja o [LICENSE](https://github.com/SilvaneiMartins/facebook/blob/master/LICENSE) for more information.
+Este projeto está sob a licença MIT. Veja o [LICENSE](https://github.com/SilvaneiMartins/whatsapp-clone/blob/master/LICENSE) for more information.
 
 ---
 
 Desenvolvedor: Silvanei Martins<br>
 Linkedin: [Entrar em contato!](https://www.linkedin.com/in/silvanei-martins-a5412436/)<br>
-Contato: WhastApp Comercial: +55 (69) 9.9970-8265 <br>
+Contato: WhastApp Comercial: +55 (69) 9.84050-2620 <br>
 Email: silvaneimartins_rcc@hotmail.com / silvaneimartins34@gmail.com<br>
 
 Empresa: <br>
