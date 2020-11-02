@@ -1,0 +1,159 @@
+.login_left {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100%;
+}
+
+.login_left__logo{
+    display: flex;
+    margin-right: 70px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.login_left__Image{
+    object-fit: contain;
+    height: 300px;
+}
+
+.login_left__logo > text {
+    font-size: 70px;
+    color: gray;
+}
+
+.login__right {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    width: 400px;
+    height: 400px;
+}
+
+.login__right > h1 {
+    font-size: 30px;
+    font-weight: 800;
+    margin-bottom: 20px;
+    color: #666360;
+}
+
+.login__right > h3{
+    font-size: 15px;
+    font-weight: 500;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    color: #666360;
+}
+
+.login__right__inputEmail {
+    display: flex;
+    align-items: center;
+    color: gray;
+    background-color: #202024;
+    border-radius: 7px;
+    padding: 3px;
+    width: 98%;
+    height: 50px;
+    margin-bottom: 15px;
+    box-shadow: -2px 2px 7px 7px rgba(0, 0, 0, 0.4);
+}
+
+.login__right__inputEmail > .MuiSvgIcon-root {
+    margin-left: 10px;
+}
+
+.login__right__inputEmail > input {
+    background: transparent;
+    width: 100%;
+    outline-width: 0;
+    color: #E1E1E6;
+    border: none;
+    font-size: 17px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.login__right__inputSenha {
+    display: flex;
+    align-items: center;
+    color: gray;
+    background-color: #202024;
+    border-radius: 7px;
+    padding: 3px;
+    width: 98%;
+    height: 50px;
+    box-shadow: -2px 2px 7px 7px rgba(0, 0, 0, 0.4);
+}
+
+.login__right__inputSenha > .MuiSvgIcon-root {
+    margin-left: 10px;
+}
+
+.login__right__inputSenha > input {
+    background: transparent;
+    width: 100%;
+    outline-width: 0;
+    color: #E1E1E6;
+    border: none;
+    font-size: 17px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.login__right__eyepassword {
+    align-items: center;
+    justify-content: center;
+    font-size: 30px;
+    cursor: pointer;
+    margin-right: 10px;
+}
+
+.login__right__eyepassword > .MuiSvgIcon-root {
+    margin-right: 10px;
+}
+
+.login__right > button {
+    width: 98%;
+    background-color: #202024;
+    color: #EFF2F5;
+    font-weight: 500;
+    height: 50px;
+    border-radius: 5px;
+    font-size: 18px;
+    margin-top: 10px;
+    box-shadow: -2px 2px 7px 7px rgba(0, 0, 0, 0.4);
+}
+
+.login__right > button:hover {
+    background-color: #29292E;
+    color: #EFF2F5
+}
+
+.login__right__button__redesocial {
+    display: flex;
+    width: 100%;
+    flex-direction: row;
+}
+
+.login__right__button__redesocial > button {
+    background-color: #202024;
+    color: #EFF2F5;
+    font-weight: 500;
+    width: 75%;
+    margin-right: 5px;
+    height: 50px;
+    border-radius: 5px;
+    font-size: 18px;
+    margin-top: 10px;
+    box-shadow: -2px 2px 7px 7px rgba(0, 0, 0, 0.4);
+}
+
+.login__right__button__redesocial > button:hover {
+    background-color: #29292E;
+    color: #EFF2F5
+}
